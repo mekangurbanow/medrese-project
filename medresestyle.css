@@ -1,0 +1,129 @@
+
+.fon { 
+    width: 500px;
+	height: 680px;
+	background-color: #283747;
+	position: relative;
+	margin: 30px auto;
+	border-radius: 50px 50px 50px 50px;
+}
+.medrese {
+	color: white;
+	font-family: Monotype Corsiva;
+	font-size: 120px;
+	text-align: center;
+	margin: 0 auto;
+}
+.terms {
+	color: white;
+	font-family: Times New roman;
+	font-size: 25px;
+	position: absolute;
+	top: 101px;
+	left: 260px;
+}
+.taryh {
+	width: 120px;
+	height: 140px;
+	background-color: white;
+	font-family: Tahoma;
+	position: absolut;
+    margin: 10px 80px;
+	text-align: center;
+	padding: 10px 0 0 0;
+}
+div #surattaryh {
+	border-radius: 6px 6px 6px 6px;
+}
+.syyasat {
+	width: 120px;
+	height: 140px;
+	background-color: white;
+	font-family: Tahoma;
+	position: absolut;
+	margin: 15px 80px;
+	text-align: center;
+	padding: 10px 0 0 0
+}
+div #suratsyyasy {
+	border-radius: 6px 6px 6px 6px;
+}
+.econom {
+	width: 120px;
+	height: 140px;
+	background-color: white;
+	font-family: Tahoma;
+	position: absolut;
+	margin: 15px 80px;
+	text-align: center;
+	padding: 10px 0 0 0
+}
+div #suratekonom {
+	border-radius: 6px 6px 6px 6px;
+	border: 1px solid black;
+}
+.sosio {
+	width: 120px;
+	height: 140px;
+	background-color: white;
+	font-family: Tahoma;
+	position: relative;
+	margin: 10px 60px;
+	text-align: center;
+	padding: 10px 0 0 0
+}
+div #suratsosio {
+	border-radius: 6px 6px 6px 6px;
+	border: 1px solid black;
+}
+.cultural {
+	width: 120px;
+	height: 140px;
+	background-color: white;
+	font-family: Tahoma;
+	position: relative;
+	margin: 15px 60px;
+	text-align: center;
+	padding: 10px 0 0 0
+}
+div #suratmedeniyet {
+	border-radius: 6px 6px 6px 6px;
+}
+.interes {
+	width: 120px;
+	height: 140px;
+	background-color: white;
+	font-family: Tahoma;
+	position: relative;
+	margin: 15px 60px;
+	text-align: center;
+	padding: 10px 0 0 0
+}
+div #suratmiras {
+	border-radius: 6px 6px 6px 6px;
+}
+.guty1 {
+	background-position: center;
+	width: 240px;
+	height: 500px;
+	float: left;
+}
+.guty2 {
+	width: 240px;
+	height: 500px;
+	float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
